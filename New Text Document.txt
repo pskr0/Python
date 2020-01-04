@@ -1,0 +1,11 @@
+172.16.35.24
+255.255.0.0
+172.16.35.251
+8.8.8.8
+1.1.1.1
+proxy_server-
+
+ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+git remote add origin https://github.com/user/repo.git
